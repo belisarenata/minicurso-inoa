@@ -20,7 +20,7 @@ Não se preocupe em _entender_ estes arquivos. O Docker pode ser duro as vezes, 
 ### No Windows 
 
 - [ ] Instale o docker desktop https://docs.docker.com/desktop/install/windows-install/
-- [ ] Copie os arquivos enviados juntos com esse readme para uma pasta de fácil acesso 
+- [ ] Copie a pasta desafio-inoa_main para uma pasta de fácil acesso 
 - [ ] Abra o terminal (powershell) e navegue até a pasta com os arquivos (usando o comando cd) 
 - [ ] Rode o comando  
 	 > docker-compose up --build
@@ -29,7 +29,7 @@ Não se preocupe em _entender_ estes arquivos. O Docker pode ser duro as vezes, 
 
 ### No linux (debian based) 
 - [ ] Instale o docker https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-pt
-- [ ] Copie os arquivos enviados juntos com esse readme para uma pasta de fácil acesso 
+- [ ] Copie a pasta desafio-inoa_main para uma pasta de fácil acesso
 - [ ] Abra o terminal  e navegue até a pasta com os arquivos (usando o comando cd) 
 - [ ] Rode o comando  
 	 > sudo docker-compose up --build
